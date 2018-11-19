@@ -1,6 +1,7 @@
 # Basics
 
 ENG:
+
 Homework from java programming class:
    1. Linear equation - User submit a and b from linear equation and program prints result from it
    2. Total and diffrence - User submit total and diffrence of a and b, program prints value of a and b
@@ -11,11 +12,13 @@ Homework from java programming class:
 PL:
 
   Zadanie 1: równanie liniowe
+  
     Napisz program, który rozwiąże równanie liniowe z jedną niewiadomą: ax + b = 0.
     Program powinien wczytać ze standardowego wejścia współczynniki rzeczywiste a i b, a potem
     wyliczyć wartość x i wypisać ją na standardowym wyjściu.
 
   Zadanie 2: suma i różnica
+  
     Mała Do pomyślała sobie o dwóch różnych liczbach rzeczywistych a i b. Bardzo chciałem poznać te
     liczby. Poprosiłem ją, żeby mi je zdradziła. Nie zgodziła się. Prosiłem ją znowu. Mała Do
     odpowiedziała, że nie może zdradzać swoich ulubionych liczb, ale może mi powiedzieć jaka jest ich
@@ -24,6 +27,7 @@ PL:
     potem wyznaczy te liczby (a oraz b) i wypisze je na standardowym wyjściu.
 
   Zadanie 3: cyfra jedności, dziesiątek i setek
+  
     Napisz program, który wypisze cyfrę jedności, dziesiątek i setek z zadanej liczby.
     Program powinien wczytać ze standardowego wejścia całkowitą c, a potem wyznaczyć i wypisać cyfrę
     jedności tej liczby (c mod 10), cyfrę dziesiątek i setek.
@@ -31,6 +35,7 @@ PL:
     (operator %).
     
   Zadanie 4: wielokąt foremny
+  
     Mała Do bardzo lubi wielokąty foremne. W wolnych chwilach rysuje kolejne figury, po czym dzielnie
     mierzy kątomierzem wszystkie kąty. Niestety, narysowanie niektórych wielokątów foremnych
     okazuje się bardzo trudne, dlatego Mała Do postanowiła odwrócić procedurę i rysować figurę na
