@@ -9,6 +9,7 @@ Homework from java programming class:
   
   
 PL:
+
   Zadanie 1: równanie liniowe
     Napisz program, który rozwiąże równanie liniowe z jedną niewiadomą: ax + b = 0.
     Program powinien wczytać ze standardowego wejścia współczynniki rzeczywiste a i b, a potem
